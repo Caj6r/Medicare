@@ -1,6 +1,5 @@
 const FormData = require("form-data");
-// const fetch = require('node-fetch');
-import fetch from "/node_modules/node-fetch/src/index.js";
+const fetch = require('node-fetch');
 const path = require("path");
 const basePath = process.cwd();
 const fs = require("fs");
