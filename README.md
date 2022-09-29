@@ -1,22 +1,9 @@
 # Welcome to Xolombo Engine 
 # Created using Hashlips art engine and NFTPort Documentation
 
-# Find the Required Details Below:
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
-
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
 # HashLips Art Engine 🔥
-
-
-Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
 ## Installation 🛠️
 
